@@ -1,6 +1,6 @@
 {
   "name": "@plasius/game-audio",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Engine-agnostic in-game audio contracts for Plasius runtime packages.",
   "type": "module",
   "sideEffects": false,
